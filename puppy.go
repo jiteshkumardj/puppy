@@ -1,5 +1,5 @@
 package puppy
 
-func speak() string {
+func Speak() string {
 	return "boooo"
 }
